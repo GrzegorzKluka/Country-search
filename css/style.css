@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	background-color: #4788A8;
+	color: #fff;
+}
+
+h1{
+	text-transform: capitalize;
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+}
